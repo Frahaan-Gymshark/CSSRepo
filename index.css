@@ -1,4 +1,31 @@
-.submissionFormInput
+.submissionFormInput div input
 {
-	 
+	height: 33px;
+    padding: 6px 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    box-shadow: none;
+    box-sizing: border-box;
+    display: inline-block;
+    font-family: "open_sanslight",Helvetica,Arial,sans-serif;
 }
+
+#wuf-adv
+{
+	display:none!important;
+}
+
+.submissionFormInput div textarea
+{
+	height: 33px;
+    padding: 6px 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    box-shadow: none;
+    box-sizing: border-box;
+    display: inline-block;
+    font-family: "open_sanslight",Helvetica,Arial,sans-serif;
+}
+
