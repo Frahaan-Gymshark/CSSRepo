@@ -37,3 +37,8 @@ width: 0;
 overflow: hidden;
 border: none !important;
 }
+
+#header
+{
+	display: none;
+}
